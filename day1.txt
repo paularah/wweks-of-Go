@@ -1,0 +1,3 @@
+Not too late to start.
+So I learnt about why golang, the problems golang solves in comparison to other langauges. 
+I also set my development enviornment for golang and the basics around variable declaration, variable scoping, shadowing, and the basics types in go.
